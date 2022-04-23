@@ -4,11 +4,12 @@
 
 [[Image:Images/TH_1.5.png|50x50px]]<br>
 
-This quick tutorial shows one possible way from System Analysis to Physical Architecture, starting with Functional Analysis and
-ending with Component Interfaces.
+This quick tutorial shows one possible way from System Analysis to Physical Architecture, starting with Functional Analysis and ending with Component Interfaces.
+
 '''System Analysis'''
 * Creation of System-level Functional Analysis
 * Creation of a Component Exchange Scenario (CES)
+
 '''Logical Architecture'''
 * Transition to Logical Architecture
 * Enrichment of the Functional Tree
@@ -16,6 +17,7 @@ ending with Component Interfaces.
 * Allocation of Exchange Items to Functional Exchanges
 * Transition of CES from System Analysis
 * Enrichment of Logical CES
+
 '''Physical Architecture'''
 * Transition from Logical Architecture
 * Creation of a Physical Architecture diagram
